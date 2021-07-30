@@ -33,4 +33,5 @@
 #### [29. 3D House CGV Project in OpenGL](https://www.vtupulse.com/cgv-mini-projects/3d-house-computer-graphics-project-in-opengl-source-code/)
 #### [30. 2D Game Computer Graphics Project in OpenGL Source Code](https://www.vtupulse.com/cgv-mini-projects/2d-game-computer-graphics-project-in-opengl/)
 #### [31. Sorting algorithms (Selection, Insertion, Bubble and Ripple Sort) visualizer CG OpenGL Project](https://www.vtupulse.com/product/sorting-algorithms-visualizer-cg-opengl-project/)
+#### [32. Balloon Popper Game CG OpenGL Project](https://www.vtupulse.com/product/balloon-popper-game-cg-opengl-project/)
 #### Will update soon
