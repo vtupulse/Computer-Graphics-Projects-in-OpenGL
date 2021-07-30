@@ -35,4 +35,5 @@
 #### [31. Sorting algorithms (Selection, Insertion, Bubble and Ripple Sort) visualizer CG OpenGL Project](https://www.vtupulse.com/product/sorting-algorithms-visualizer-cg-opengl-project/)
 #### [32. Balloon Popper Game CG OpenGL Project](https://www.vtupulse.com/product/balloon-popper-game-cg-opengl-project/)
 #### [33. Visualization of rain water collection CG OpenGL Project](https://www.vtupulse.com/product/visualization-of-rain-water-collection-cg-opengl-project/)
+#### [34. 3D CAR Animation CG OpenGL Project](https://www.vtupulse.com/product/3d-car-animation-cg-opengl-project/)
 #### Will update soon
