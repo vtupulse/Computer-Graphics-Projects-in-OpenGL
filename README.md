@@ -37,3 +37,11 @@
 #### [33. Visualization of rain water collection CG OpenGL Project](https://www.vtupulse.com/product/visualization-of-rain-water-collection-cg-opengl-project/)
 #### [34. 3D CAR Animation CG OpenGL Project](https://www.vtupulse.com/product/3d-car-animation-cg-opengl-project/)
 #### Will update soon
+
+# Computer-Graphics-Projects-in-OpenGL-Reports
+#### [1. Report of Aquarium Computer Graphics Mini-Project](https://www.vtupulse.com/product/aquarium-computer-graphics-mini-project-report/)
+#### [2. Report of Archery Game Computer Graphics Mini Project](https://www.vtupulse.com/product/archery-game-computer-graphics-mini-project-report/)
+#### [3. Report of Download Helicopter CG Project](https://www.vtupulse.com/product/download-helicopter-cg-project-report/)
+#### [4. Report of Toll Collecting Computer Graphics Mini Project](https://www.vtupulse.com/product/toll-collecting-computer-graphics-mini-project-report/)
+#### [5. Report of Flying Ball Computer Graphics Mini Project](https://www.vtupulse.com/product/report-of-flying-ball-computer-graphics-mini-project/)
+#### [6. Report of Solar Energy Computer Graphics Mini Project](https://www.vtupulse.com/product/report-of-solar-energy-computer-graphics-mini-project/)
