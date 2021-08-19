@@ -45,3 +45,4 @@
 #### [4. Report of Toll Collecting Computer Graphics Mini Project](https://www.vtupulse.com/product/toll-collecting-computer-graphics-mini-project-report/)
 #### [5. Report of Flying Ball Computer Graphics Mini Project](https://www.vtupulse.com/product/report-of-flying-ball-computer-graphics-mini-project/)
 #### [6. Report of Solar Energy Computer Graphics Mini Project](https://www.vtupulse.com/product/report-of-solar-energy-computer-graphics-mini-project/)
+#### [7. Report of Bouncing Ball Computer Graphics Mini Project](https://www.vtupulse.com/product/report-of-bouncing-ball-computer-graphics-mini-project/)
